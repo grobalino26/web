@@ -1,0 +1,11 @@
+body {
+	background-color: aqua;
+	font-style: oblique 40deg;
+}
+h2 {
+	color: blue;
+}
+p {
+	border: 4mm ridge rgba(170, 50, 220, .6)
+	color: teal;
+}
