@@ -1,0 +1,17 @@
+body {
+	background-color: aqua;
+	font-style: oblique 40deg;
+}
+h2 {
+	color: blue;
+}
+p {
+	border: thick double #32a1ce;
+	color: teal;
+  line-height: 1.5;
+  padding: 2.5px;
+}
+li {
+  border: thick double #32a1ce;
+  }
+  
