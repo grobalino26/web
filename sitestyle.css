@@ -4,11 +4,11 @@ body {
 }
 h2,
 h1{
-	color: blue;
+	color: navy;
 }
 p {
-	border: thick double #32a1ce;
-	color: darkslateblue;
+  border: thick double #32a1ce;
+  color: darkslateblue;
   line-height: 1.5;
   padding: 2.5px;
 }
