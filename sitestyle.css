@@ -1,6 +1,6 @@
 body {
 	background-color: aqua;
-	font-style: oblique 40deg;
+	font: helvetica, arial, sans-serif;
 }
 h2 {
 	color: blue;
@@ -13,5 +13,6 @@ p {
 }
 li {
   border: thick double #32a1ce;
+  display: inline;
   }
   
