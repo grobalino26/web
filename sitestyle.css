@@ -1,13 +1,14 @@
 body {
-	background-color: aqua;
+	background-color: lightsteelblue;
 	font: helvetica, arial, sans-serif;
 }
-h2 {
+h2,
+h1{
 	color: blue;
 }
 p {
 	border: thick double #32a1ce;
-	color: teal;
+	color: darkslateblue;
   line-height: 1.5;
   padding: 2.5px;
 }
