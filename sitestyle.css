@@ -16,5 +16,6 @@ li {
         border: thick double #32a1ce;
         display: inline;
         font-size: 20px; 
+	text-align: center;
 	
 }
