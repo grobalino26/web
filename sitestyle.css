@@ -21,7 +21,7 @@ li {
 ul {
 	  list-style-type: none;
 }
-li.a {
+ul.a {
 	background-color: azure;
 	border: thick double #32a1ce;
         display: inline;
