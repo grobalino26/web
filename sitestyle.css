@@ -12,7 +12,8 @@ p {
         line-height: 1.5;
         padding: 2.5px;
 }
-li {
+li
+li.a {
         border: thick double #32a1ce;
         display: inline;
         font-size: 20px; 
