@@ -14,8 +14,6 @@ p {
 }
 li {
         border: thick double #32a1ce;
-        display: flex;
-        font-size: 20px; 
-	justify-content: center;
-	
+        display: inline;
+        font-size: 20px; 	
 }
