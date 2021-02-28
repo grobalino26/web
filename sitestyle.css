@@ -7,16 +7,15 @@ h1{
 	color: navy;
 }
 p {
-        border-left: thick double #32a1ce;
+        border: thick double #32a1ce;
         color: darkslateblue;
         line-height: 1.5;
         padding: 2.5px;
 }
 li {
-       border: thick double #32a1ce;
-       display: inline;
-       font-size: 20px;
-       align-items: center;
+        border: thick double #32a1ce;
+        display: inline;
+        font-size: 20px;
 	
   }
   
