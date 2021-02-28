@@ -18,13 +18,3 @@ li {
         font-size: 20px; 
 	
 }
-ul {
-	  list-style-type: none;
-}
-ul.a {
-	background-color: azure;
-	border: thick double #32a1ce;
-        display: inline;
-        font-size: 20px; 
-}
-
